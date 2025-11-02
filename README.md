@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein Shiri</h1>
-<h3 align="center">A physics fresh graduate| currently 2nd year computer science| I am a quantum engineer, data engineer and interested in quantum and classical algorithms.</h3>
+<h3 align="center">A physics fresh graduate| I am a quantum engineer, data engineer and interested in quantum and classical algorithms.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
